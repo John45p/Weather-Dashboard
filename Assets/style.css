@@ -1,0 +1,23 @@
+.title{
+    text-align: center;
+    padding: 17px;
+    color: white;
+    background-color: rgb(17, 12, 92);
+    background: linear-gradient();
+}
+
+.low{
+    color: rgb(112, 221, 109);
+}
+
+.medium{
+    color: rgb(186, 228, 101);
+}
+
+.high{
+    color: rgb(134, 37, 37);
+}
+
+.extremely-high{
+    color: rgb(247, 0, 0);
+}
